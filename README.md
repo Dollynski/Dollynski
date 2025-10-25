@@ -20,7 +20,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 | **Back-end** | `Node.js` / `Flask` / `.NET Core`|
 | **Banco de Dados** | `PostgreSQL` / `MySQL` / `MongoDB` / `SQLite` |
 | **DevOps/Ferramentas** | `Git` / `Docker` / `AWS` / `Azure` |
-| **Outras** | `Design Patterns` / `Metodologias Ágeis (Scrum/Kanban)` / `Testes Unitários` |
+| **Outras** | `Design Patterns` / `Metodologias Ágeis (Scrum/Kanban)` / `Testes Unitários` / `LLMs` |
 
 ## 🌟 Projetos em Destaque
 
@@ -33,14 +33,23 @@ Estes são alguns dos meus projetos mais relevantes. Fique à vontade para explo
 >
 > **Link:** https://github.com/Dollynski/Projeto-Pet-Vet
 
-### 2. Starfield
+### 2. IA Solução Real LLM
+> **Descrição:** Um projeto de Inteligência Artificial que utiliza uma LLM integrada com speech_recognition para simular um assistente pessoal com uma interface conversacional completa com reconhecimento e síntese de voz.
+>
+> **Tecnologias Utilizadas:** Python, Hugging Face Zephyr, SpeechRecognition, Torch, Facebook TTS
+>
+> **Link:** https://github.com/TechGui/IA-Solucao-Real-LLM
+>
+> **Perfil do Parceiro de Desenvolvimento:** https://github.com/TechGui
+
+### 3. Starfield
 > **Descrição:** Um projeto simples focado no aprendizado e estudo de Programação Orientada a Objetos e Typescript. Foi inspirado no RPG de 2023 da Bethesda de mesmo nome, Starfield.
 >
 > **Tecnologias Utilizadas:** Typescript
 >
 > **Link:** https://github.com/Dollynski/POO-Projeto_Starfield
 
-### 3. Exercícios de Análise e Estrutura de Dados
+### 4. Exercícios de Análise e Estrutura de Dados
 > **Descrição:** Um repositório feito para guardar alguns exercícios para estudo de Análise e Estrutura de Dados, com foco em desenvolvimento Python.
 >
 > **Tecnologias Utilizadas:** Python
