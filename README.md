@@ -33,14 +33,12 @@ Estes são alguns dos meus projetos mais relevantes. Fique à vontade para explo
 >
 > **Link:** https://github.com/Dollynski/Projeto-Pet-Vet
 
-### 2. IA Solução Real LLM
-> **Descrição:** Um projeto de Inteligência Artificial que utiliza uma LLM integrada com speech_recognition para simular um assistente pessoal com uma interface conversacional completa com reconhecimento e síntese de voz.
+### 2. Projeto Cubô
+> **Descrição:** Meu Projeto Final de Graduação no UniSenac, um assistente de Inteligência Artificial com código aberto e licença de uso livre, que estabelece um framework de desenvolvimento para outros usuários com interesse no projeto. 
 >
-> **Tecnologias Utilizadas:** Python, Hugging Face Zephyr, SpeechRecognition, Torch, Facebook TTS
+> **Tecnologias Utilizadas:** Python, Docker, Google Gemini API, Linux-based OS, Raspberry Pi
 >
-> **Link:** https://github.com/TechGui/IA-Solucao-Real-LLM
->
-> **Perfil do Parceiro de Desenvolvimento:** https://github.com/TechGui
+> **Link:** https://github.com/Dollynski/Project-Cubot
 
 ### 3. Starfield
 > **Descrição:** Um projeto simples focado no aprendizado e estudo de Programação Orientada a Objetos e Typescript. Foi inspirado no RPG de 2023 da Bethesda de mesmo nome, Starfield.
