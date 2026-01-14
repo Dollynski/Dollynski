@@ -1,6 +1,6 @@
 # Olá, eu sou o João Vitor! 👋
 
-Desenvolvedor amador em formação no UniSenac que está sempre em busca de novos desafios e oportunidades de aprender.
+Desenvolvedor Front-End formado no UniSenac Pelotas
 
 ## 🚀 Sobre Mim
 
