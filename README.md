@@ -1,26 +1,13 @@
 # Olá, eu sou o João Vitor! 👋
 
-Desenvolvedor Front-End formado no UniSenac Pelotas
+Desenvolvedor Full-Stack formado no UniSenac Pelotas
 
 ## 🚀 Sobre Mim
 
-- **💻 Foco:** Desenvolvimento Front-End
+- **💻 Foco Atual:** Desenvolvimento Front-End
 - **💡 Atualmente estudando/trabalhando em:** Análise de Dados com Python, Apps com React Native.
-- **🌱 Buscando:** Expandir meu conhecimento em Python
-- **📫 Como me encontrar:** joaovitordolinski@gmail.com | https://www.linkedin.com/in/jo%C3%A3o-vitor-dolinski-da-silva-330089269/
-
-## 🛠️ Habilidades
-
-Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
-
-| Categoria | Habilidades |
-| :--- | :--- |
-| **Linguagens** | `JavaScript` / `TypeScript` / `Python` |
-| **Front-end** | `React` / `HTML5` / `CSS3` / `Tailwind CSS`|
-| **Back-end** | `Node.js` / `Flask` / `.NET Core`|
-| **Banco de Dados** | `PostgreSQL` / `MySQL` / `MongoDB` / `SQLite` |
-| **DevOps/Ferramentas** | `Git` / `Docker` / `AWS` / `Azure` |
-| **Outras** | `Design Patterns` / `Metodologias Ágeis (Scrum/Kanban)` / `Testes Unitários` / `LLMs` |
+- **🌱 Buscando:** Expandir meu conhecimento em linguagens Front-End
+- **📫 Como me encontrar:** [email](joaovitordolinski@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-dolinski-da-silva-330089269/)
 
 ## 🌟 Projetos em Destaque
 
@@ -55,13 +42,3 @@ Estes são alguns dos meus projetos mais relevantes. Fique à vontade para explo
 > **Link:** https://github.com/Dollynski/AEED_Python
 
 ---
-
-## 📈 Estatísticas do GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Dollynski&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Dollynski)
-
----
-
-## 🏆 Linguagens Mais Usadas
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Dollynski&layout=compact&theme=radical)](https://github.com/Dollynski)
