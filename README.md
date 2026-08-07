@@ -1,6 +1,6 @@
 ## About me
 
-- Fullstack Developer 
+- Full-Stack Developer 
 - Currently working in a CRM Platform based on PHP
 - How to contact me: [email](joaovitordolinski@gmail.com)
 
